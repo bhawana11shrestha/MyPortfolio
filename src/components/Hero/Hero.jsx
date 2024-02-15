@@ -7,7 +7,7 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi I'am Bhawana 👩🏻</h1>
+        <h1 className={styles.title}>Hi I'am Bhawana ❤</h1>
         <p className={styles.description}>
           I am a Backend Developer with 2 years of experience in Python Django.
           Reach out if you'd like to know more!
